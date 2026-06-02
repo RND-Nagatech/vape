@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Abivape Transaksi Maskable">
+  <rect width="512" height="512" fill="#0f766e"/>
+  <rect x="56" y="56" width="400" height="400" rx="72" fill="#115e59"/>
+  <circle cx="256" cy="200" r="90" fill="#d1fae5"/>
+  <path d="M156 324h200c18 0 32 14 32 32s-14 32-32 32H156c-18 0-32-14-32-32s14-32 32-32z" fill="#ecfeff"/>
+  <path d="M196 158h120l-60 76z" fill="#0f766e"/>
+</svg>

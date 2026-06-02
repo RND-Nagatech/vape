@@ -1,0 +1,197 @@
+[
+  {
+    "no_penjualan": "PJ-260602-0001",
+    "tgl_jual": "2026-06-01T17:00:00.000Z",
+    "kode_customer": "GUEST",
+    "nama_customer": "REG",
+    "alamat_customer": "-",
+    "no_hp": "-",
+    "items": [
+      {
+        "kode_barang": "123",
+        "kode_barcode": "123",
+        "nama_barang": "test",
+        "kode_kategori": "UMUM",
+        "kode_jenis": "UMUM",
+        "kode_merk": "UMUM",
+        "kode_varian": "UMUM",
+        "satuan": "pcs",
+        "qty": 1,
+        "harga_jual": 200000,
+        "disc_persen": 0,
+        "disc_rp": 0
+      }
+    ],
+    "pembayaran": [
+      {
+        "metode": "CASH",
+        "jumlah": 200000
+      }
+    ],
+    "cashback_topup_rp": 0,
+    "custom_amount_rp": 0,
+    "total_qty": 1,
+    "total_harga": 200000,
+    "total_disc_rp": 0,
+    "total_bayar": 200000,
+    "kembalian": 0,
+    "status": "OPEN",
+    "created_at": "2026-06-02T04:35:40.297Z"
+  },
+  {
+    "no_penjualan": "PJ-260602-0002",
+    "tgl_jual": "2026-06-01T17:00:00.000Z",
+    "kode_customer": "GUEST",
+    "nama_customer": "REG",
+    "alamat_customer": "-",
+    "no_hp": "-",
+    "items": [
+      {
+        "kode_barang": "123",
+        "kode_barcode": "123",
+        "nama_barang": "test",
+        "kode_kategori": "UMUM",
+        "kode_jenis": "UMUM",
+        "kode_merk": "UMUM",
+        "kode_varian": "UMUM",
+        "satuan": "pcs",
+        "qty": 1,
+        "harga_jual": 200000,
+        "disc_persen": 0,
+        "disc_rp": 0
+      }
+    ],
+    "pembayaran": [
+      {
+        "metode": "CASH",
+        "jumlah": 200000
+      }
+    ],
+    "cashback_topup_rp": 0,
+    "custom_amount_rp": 0,
+    "total_qty": 1,
+    "total_harga": 200000,
+    "total_disc_rp": 0,
+    "total_bayar": 200000,
+    "kembalian": 0,
+    "status": "OPEN",
+    "created_at": "2026-06-02T07:02:27.724Z"
+  },
+  {
+    "no_penjualan": "PJ-260602-0003",
+    "tgl_jual": "2026-06-01T17:00:00.000Z",
+    "kode_customer": "GUEST",
+    "nama_customer": "REG",
+    "alamat_customer": "-",
+    "no_hp": "-",
+    "items": [
+      {
+        "kode_barang": "123",
+        "kode_barcode": "123",
+        "nama_barang": "test",
+        "kode_kategori": "UMUM",
+        "kode_jenis": "UMUM",
+        "kode_merk": "UMUM",
+        "kode_varian": "UMUM",
+        "satuan": "pcs",
+        "qty": 1,
+        "harga_jual": 200000,
+        "disc_persen": 0,
+        "disc_rp": 0
+      }
+    ],
+    "pembayaran": [
+      {
+        "metode": "CASH",
+        "jumlah": 200000
+      }
+    ],
+    "cashback_topup_rp": 0,
+    "custom_amount_rp": 0,
+    "total_qty": 1,
+    "total_harga": 200000,
+    "total_disc_rp": 0,
+    "total_bayar": 200000,
+    "kembalian": 0,
+    "status": "OPEN",
+    "created_at": "2026-06-02T07:02:38.672Z"
+  },
+  {
+    "no_penjualan": "PJ-260602-0004",
+    "tgl_jual": "2026-06-01T17:00:00.000Z",
+    "kode_customer": "GUEST",
+    "nama_customer": "REG",
+    "alamat_customer": "-",
+    "no_hp": "-",
+    "items": [
+      {
+        "kode_barang": "123",
+        "kode_barcode": "123",
+        "nama_barang": "test",
+        "kode_kategori": "UMUM",
+        "kode_jenis": "UMUM",
+        "kode_merk": "UMUM",
+        "kode_varian": "UMUM",
+        "satuan": "pcs",
+        "qty": 1,
+        "harga_jual": 200000,
+        "disc_persen": 0,
+        "disc_rp": 0
+      }
+    ],
+    "pembayaran": [
+      {
+        "metode": "CASH",
+        "jumlah": 200000
+      }
+    ],
+    "cashback_topup_rp": 0,
+    "custom_amount_rp": 0,
+    "total_qty": 1,
+    "total_harga": 200000,
+    "total_disc_rp": 0,
+    "total_bayar": 200000,
+    "kembalian": 0,
+    "status": "OPEN",
+    "created_at": "2026-06-02T07:06:04.335Z"
+  },
+  {
+    "no_penjualan": "PJ-260602-0005",
+    "tgl_jual": "2026-06-01T17:00:00.000Z",
+    "kode_customer": "GUEST",
+    "nama_customer": "REG",
+    "alamat_customer": "-",
+    "no_hp": "-",
+    "items": [
+      {
+        "kode_barang": "123",
+        "kode_barcode": "123",
+        "nama_barang": "test",
+        "kode_kategori": "UMUM",
+        "kode_jenis": "UMUM",
+        "kode_merk": "UMUM",
+        "kode_varian": "UMUM",
+        "satuan": "pcs",
+        "qty": 1,
+        "harga_jual": 200000,
+        "disc_persen": 0,
+        "disc_rp": 0
+      }
+    ],
+    "pembayaran": [
+      {
+        "metode": "CASH",
+        "jumlah": 200000
+      }
+    ],
+    "cashback_topup_rp": 0,
+    "custom_amount_rp": 0,
+    "total_qty": 1,
+    "total_harga": 200000,
+    "total_disc_rp": 0,
+    "total_bayar": 200000,
+    "kembalian": 0,
+    "status": "OPEN",
+    "created_at": "2026-06-02T07:06:35.758Z"
+  }
+]

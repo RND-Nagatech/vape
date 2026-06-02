@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/services/api.ts","./src/services/bluetoothprinter.ts","./src/services/receipt.ts","./src/types/transaction.ts","./src/types/web-bluetooth.d.ts"],"version":"5.9.3"}

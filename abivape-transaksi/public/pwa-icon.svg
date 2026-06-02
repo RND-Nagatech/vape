@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Abivape Transaksi">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#115e59"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <circle cx="256" cy="190" r="82" fill="#e6fffb"/>
+  <path d="M142 312h228c16 0 28 12 28 28s-12 28-28 28H142c-16 0-28-12-28-28s12-28 28-28z" fill="#ecfeff"/>
+  <path d="M190 150h132l-66 80z" fill="#0f766e"/>
+</svg>
